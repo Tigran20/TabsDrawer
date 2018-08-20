@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_monday"
+            android:icon="@drawable/ic_menu"
+            android:title="Понедельник" />
+        <item
+            android:id="@+id/nav_tuesday"
+            android:icon="@drawable/ic_menu"
+            android:title="Вторник" />
+        <item
+            android:id="@+id/nav_wednesday"
+            android:icon="@drawable/ic_menu"
+            android:title="Среда" />
+        <item
+            android:id="@+id/nav_thursday"
+            android:icon="@drawable/ic_menu"
+            android:title="Четверг" />
+    </group>
+</menu>
